@@ -1,0 +1,15 @@
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/marcel/Documents/BVS/Repo/BVS_WI-E21/Beispiele/01-Einführung in Softwarentwicklung/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
