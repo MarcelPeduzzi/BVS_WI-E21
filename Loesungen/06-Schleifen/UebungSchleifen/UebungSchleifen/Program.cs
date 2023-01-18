@@ -18,8 +18,7 @@ namespace MaximumMinimumArray
         {
             Console.WriteLine("Schleife");
             Console.WriteLine("========");
-            string resultat = "";
-            for (double d = 35; d >= 20; d = d - 2.5)
+            for (double d = 35; d >= 20; d -= 2.5)
             {
                 Console.WriteLine(d);
             }
@@ -32,7 +31,7 @@ namespace MaximumMinimumArray
             int count = 0;
             double summe = 0.0, mw;
 
-            for (double d = 35; d >= 20; d = d - 2.5)
+            for (double d = 35; d >= 20; d -= 2.5)
             {
                 Console.WriteLine(d);
                 count = count + 1;

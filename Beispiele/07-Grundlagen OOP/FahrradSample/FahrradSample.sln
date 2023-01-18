@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FahrradSample", "FahrradSample\FahrradSample.csproj", "{4E40F4AD-BD69-42CC-A9A1-750DE0E4D8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E40F4AD-BD69-42CC-A9A1-750DE0E4D8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E40F4AD-BD69-42CC-A9A1-750DE0E4D8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E40F4AD-BD69-42CC-A9A1-750DE0E4D8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E40F4AD-BD69-42CC-A9A1-750DE0E4D8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D241FA-1C7C-4DDB-99D6-729B144BCF3F}
+	EndGlobalSection
+EndGlobal
