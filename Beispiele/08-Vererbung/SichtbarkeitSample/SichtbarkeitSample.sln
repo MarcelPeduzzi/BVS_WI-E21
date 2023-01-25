@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SichtbarkeitSample", "SichtbarkeitSample\SichtbarkeitSample.csproj", "{CB8C04F8-4F33-40AB-BB01-692876837A55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiverseKlassen", "DiverseKlassen\DiverseKlassen.csproj", "{3515FB59-D387-4426-99E5-A48A84E0B322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB8C04F8-4F33-40AB-BB01-692876837A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8C04F8-4F33-40AB-BB01-692876837A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8C04F8-4F33-40AB-BB01-692876837A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8C04F8-4F33-40AB-BB01-692876837A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3515FB59-D387-4426-99E5-A48A84E0B322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3515FB59-D387-4426-99E5-A48A84E0B322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3515FB59-D387-4426-99E5-A48A84E0B322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3515FB59-D387-4426-99E5-A48A84E0B322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E13F73-3987-4D7F-B2F0-8F35475C9CE1}
+	EndGlobalSection
+EndGlobal
