@@ -17,10 +17,15 @@
 
         public override void AddGuthaben(decimal betrag)
         {
-            const decimal bonus = (decimal)0.05;
+            decimal berechneterBetrag = betrag;
 
-            // Zugriff auf proteced-Property in Basisklasse:
-            base.Guthaben += bonus * betrag;
+            if (StammKunde)
+            {
+                const decimal bonus = (decimal)0.05;
+                berechneterBetrag += bonus * betrag;
+            }
+
+            base.AddGuthaben(berechneterBetrag);
         }
     }
 }

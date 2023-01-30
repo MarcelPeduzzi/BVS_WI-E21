@@ -20,10 +20,7 @@
 
         public virtual void AddGuthaben(decimal betrag)
         {
-            if (StammKunde)
-            {
-                Guthaben += betrag;
-            }
+            Guthaben += betrag;
         }
     }
 }

@@ -20,7 +20,7 @@
         public override void AddGuthaben(decimal brutto)
         {
             decimal netto = brutto / (1 + mwst);
-            base.AddGuthaben(netto * (decimal)0.01);
+            base.AddGuthaben(netto);
         }
 
         public decimal GetMWSt()
