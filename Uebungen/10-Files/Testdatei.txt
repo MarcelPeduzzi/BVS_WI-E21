@@ -1,0 +1,4 @@
+Hans;Meier;Hauptstrasse;4;9000;St.Gallen
+Kurt;Steiner;Rorschacherstrasse;50;9001;St.Gallen
+Eveline;Bürki;Bahnhofstrasse;2a;8000;Zürich
+Susanne;Winiger;Seestrasse;4;6300;Zug
